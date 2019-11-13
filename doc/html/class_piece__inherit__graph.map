@@ -1,0 +1,8 @@
+<map id="Piece" name="Piece">
+<area shape="rect" id="node2" href="$class_bishop.html" title="Classe représentant le fou. " alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" href="$class_king.html" title="Classe représentant le roi. " alt="" coords="93,80,141,107"/>
+<area shape="rect" id="node4" href="$class_knight.html" title="Classe représentant le cavalier. " alt="" coords="165,80,223,107"/>
+<area shape="rect" id="node5" href="$class_pawn.html" title="Classe représentant le pion. " alt="" coords="248,80,303,107"/>
+<area shape="rect" id="node6" href="$class_queen.html" title="Classe représentant la reine. " alt="" coords="327,80,387,107"/>
+<area shape="rect" id="node7" href="$class_rook.html" title="Classe représentant la tour. " alt="" coords="411,80,465,107"/>
+</map>

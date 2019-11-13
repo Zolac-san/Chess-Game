@@ -1,0 +1,25 @@
+var class_board =
+[
+    [ "Board", "class_board.html#a9ee491d4fea680cf69b033374a9fdfcb", null ],
+    [ "Board", "class_board.html#af776705712b7d4c49a3b2f1078fe91cd", null ],
+    [ "~Board", "class_board.html#af73f45730119a1fd8f6670f53f959e68", null ],
+    [ "copy", "class_board.html#a5091a16baf97f374af1aff80a8fa4c57", null ],
+    [ "createBoard", "class_board.html#a920df36e5fba151cde4c3d53f68da16c", null ],
+    [ "deleteObject", "class_board.html#a363560ba1f847951c8b880cabc0339f3", null ],
+    [ "getHeight", "class_board.html#aff78997b5a7db898eea57a266aeb35d8", null ],
+    [ "getLength", "class_board.html#a6137a4207712c3fe91ee87896239e64e", null ],
+    [ "getPieceWhoAttackThisSquare", "class_board.html#a31454b84631fac1d6023f826c5692c06", null ],
+    [ "getSquare", "class_board.html#a1d0fdadc605484c892299b14c15b40c7", null ],
+    [ "getSquare", "class_board.html#a3f122d5c273ac4abada79c8bb9824dbd", null ],
+    [ "getSquarePiece", "class_board.html#a49103cc14f19aa3cc1c8a9bd8d3df09b", null ],
+    [ "getSquarePiece", "class_board.html#a3f55e861c02c919a19bdcee70264bb30", null ],
+    [ "howManyPieceCanAttack", "class_board.html#a2b4744f61d96435e5f2730f91c184c15", null ],
+    [ "howManyPieceCanAttack", "class_board.html#a32e6d2cd05abfd2bb1ae5b3020e0c46b", null ],
+    [ "isPiece", "class_board.html#a94ecb95585435d9bdd3c8f38bf726758", null ],
+    [ "isPiece", "class_board.html#ab475613959fd058e1262c844c7d3dfab", null ],
+    [ "isSquareCanBeAttack", "class_board.html#a1c14685833a3a00ab3582cd0b7063c4e", null ],
+    [ "isSquareCanBeAttack", "class_board.html#aad084dd76647736396ef91873a4c9ff7", null ],
+    [ "isSquareCanBeAttackWithoutKing", "class_board.html#a10cb58e88965b51fe22c7553097ea873", null ],
+    [ "setSquarePiece", "class_board.html#acca03b38d73da16d918bd086777ccd73", null ],
+    [ "setSquarePiece", "class_board.html#a29db662d9f1984a9c6ff4da5b7eaa8c9", null ]
+];

@@ -1,0 +1,11 @@
+<map id="include/Model/Player" name="include/Model/Player">
+<area shape="rect" id="node2" href="dir_c56f43a6688e4e2a1f65afa190a45d58.html" title="Piece" alt="" coords="37,88,109,136"/>
+<area shape="rect" id="node3" href="dir_f23637a62b38ea92db48d4b06af9ee30.html" title="Structure" alt="" coords="136,184,211,232"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000007_000009.html" title="4" alt="" coords="137,158,145,173"/>
+<area shape="rect" id="node4" href="dir_f96952a9551ea2e23b7d40ecd97a1fb7.html" title="Board" alt="" coords="237,88,309,136"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000007_000004.html" title="2" alt="" coords="261,61,269,75"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000004_000007.html" title="1" alt="" coords="92,67,100,82"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000004_000009.html" title="2" alt="" coords="213,170,221,185"/>
+<area shape="rect" id="clust2" href="dir_8282e0e8c464e8e4318f444738db4d74.html" alt="" coords="27,77,216,147"/>
+<area shape="rect" id="clust1" href="dir_a66f277f0ad9d33996bc14e382b252ae.html" title="Model" alt="" coords="16,41,227,157"/>
+</map>

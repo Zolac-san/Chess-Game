@@ -1,0 +1,9 @@
+<map id="include/Model/Player/iplayer.h" name="include/Model/Player/iplayer.h">
+<area shape="rect" id="node2" href="$color_8h.html" title="color.h" alt="" coords="5,319,67,345"/>
+<area shape="rect" id="node3" href="$piece_8h.html" title="piece.h" alt="" coords="231,95,295,121"/>
+<area shape="rect" id="node7" href="$piece__type_8h.html" title="piece_type.h" alt="" coords="447,169,543,196"/>
+<area shape="rect" id="node6" href="$coordinate_8h.html" title="coordinate.h" alt="" coords="216,393,309,420"/>
+<area shape="rect" id="node8" href="$iboard_8h.html" title="iboard.h" alt="" coords="74,244,142,271"/>
+<area shape="rect" id="node10" href="$imove_8h.html" title="imove.h" alt="" coords="229,169,297,196"/>
+<area shape="rect" id="node9" href="$isquare_8h.html" title="isquare.h" alt="" coords="121,319,196,345"/>
+</map>

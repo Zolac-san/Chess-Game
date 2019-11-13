@@ -1,0 +1,9 @@
+<map id="include/Model/Board/Square/square.h" name="include/Model/Board/Square/square.h">
+<area shape="rect" id="node2" href="$isquare_8h.html" title="isquare.h" alt="" coords="5,319,80,345"/>
+<area shape="rect" id="node4" href="$piece_8h.html" title="piece.h" alt="" coords="225,95,289,121"/>
+<area shape="rect" id="node3" href="$coordinate_8h.html" title="coordinate.h" alt="" coords="325,393,419,420"/>
+<area shape="rect" id="node7" href="$color_8h.html" title="color.h" alt="" coords="104,319,165,345"/>
+<area shape="rect" id="node8" href="$piece__type_8h.html" title="piece_type.h" alt="" coords="167,169,263,196"/>
+<area shape="rect" id="node9" href="$iboard_8h.html" title="iboard.h" alt="" coords="29,244,97,271"/>
+<area shape="rect" id="node10" href="$imove_8h.html" title="imove.h" alt="" coords="338,169,406,196"/>
+</map>

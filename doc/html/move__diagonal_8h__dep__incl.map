@@ -1,0 +1,14 @@
+<map id="include/Model/Player/Piece/Move/move_diagonal.h" name="include/Model/Player/Piece/Move/move_diagonal.h">
+<area shape="rect" id="node2" href="$bishop_8h.html" title="include/Model/Player\l/Piece/bishop.h" alt="" coords="96,95,239,136"/>
+<area shape="rect" id="node11" href="$queen_8h.html" title="include/Model/Player\l/Piece/queen.h" alt="" coords="268,95,411,136"/>
+<area shape="rect" id="node13" href="$move__diagonal_8cpp.html" title="src/Model/Player/Piece\l/Move/move_diagonal.cpp" alt="" coords="435,95,610,136"/>
+<area shape="rect" id="node3" href="$controller_8h.html" title="include/Controller\l/controller.h" alt="" coords="278,273,401,315"/>
+<area shape="rect" id="node8" href="$factory__piece_8h.html" title="include/Model/Player\l/Piece/factory_piece.h" alt="" coords="208,184,360,225"/>
+<area shape="rect" id="node10" href="$bishop_8cpp.html" title="src/Model/Player/Piece\l/bishop.cpp" alt="" coords="26,184,184,225"/>
+<area shape="rect" id="node4" href="$factory__controller_8h.html" title="include/Controller\l/factory_controller.h" alt="" coords="87,363,224,404"/>
+<area shape="rect" id="node6" href="$controller_8cpp.html" title="src/Controller/controller.cpp" alt="" coords="248,370,431,397"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="455,370,552,397"/>
+<area shape="rect" id="node5" href="$factory__controller_8cpp.html" title="src/Controller/factory\l_controller.cpp" alt="" coords="84,452,228,493"/>
+<area shape="rect" id="node9" href="$factory__piece_8cpp.html" title="src/Model/Player/Piece\l/factory_piece.cpp" alt="" coords="97,273,254,315"/>
+<area shape="rect" id="node12" href="$queen_8cpp.html" title="src/Model/Player/Piece\l/queen.cpp" alt="" coords="434,184,592,225"/>
+</map>

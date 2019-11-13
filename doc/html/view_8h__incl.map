@@ -1,0 +1,14 @@
+<map id="include/View/view.h" name="include/View/view.h">
+<area shape="rect" id="node2" href="$iview_8h.html" title="iview.h" alt="" coords="679,80,742,107"/>
+<area shape="rect" id="node3" href="$imodel_8h.html" title="imodel.h" alt="" coords="426,155,497,181"/>
+<area shape="rect" id="node6" href="$iboard_8h.html" title="iboard.h" alt="" coords="593,453,661,480"/>
+<area shape="rect" id="node10" href="$iplayer_8h.html" title="iplayer.h" alt="" coords="659,229,730,256"/>
+<area shape="rect" id="node16" href="$state__game_8h.html" title="state_game.h" alt="" coords="5,229,107,256"/>
+<area shape="rect" id="node17" href="$turnmove_8h.html" title="turnmove.h" alt="" coords="387,304,474,331"/>
+<area shape="rect" id="node7" href="$isquare_8h.html" title="isquare.h" alt="" coords="587,528,661,555"/>
+<area shape="rect" id="node9" href="$color_8h.html" title="color.h" alt="" coords="817,528,879,555"/>
+<area shape="rect" id="node8" href="$coordinate_8h.html" title="coordinate.h" alt="" coords="615,603,708,629"/>
+<area shape="rect" id="node11" href="$piece_8h.html" title="piece.h" alt="" coords="759,304,823,331"/>
+<area shape="rect" id="node14" href="$piece__type_8h.html" title="piece_type.h" alt="" coords="549,379,645,405"/>
+<area shape="rect" id="node15" href="$imove_8h.html" title="imove.h" alt="" coords="721,379,789,405"/>
+</map>

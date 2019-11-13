@@ -1,0 +1,12 @@
+<map id="include/Model/imodel.h" name="include/Model/imodel.h">
+<area shape="rect" id="node4" href="$iboard_8h.html" title="iboard.h" alt="" coords="251,304,319,331"/>
+<area shape="rect" id="node8" href="$iplayer_8h.html" title="iplayer.h" alt="" coords="391,80,462,107"/>
+<area shape="rect" id="node14" href="$state__game_8h.html" title="state_game.h" alt="" coords="537,80,639,107"/>
+<area shape="rect" id="node15" href="$turnmove_8h.html" title="turnmove.h" alt="" coords="562,155,649,181"/>
+<area shape="rect" id="node5" href="$isquare_8h.html" title="isquare.h" alt="" coords="223,379,297,405"/>
+<area shape="rect" id="node7" href="$color_8h.html" title="color.h" alt="" coords="351,379,412,405"/>
+<area shape="rect" id="node6" href="$coordinate_8h.html" title="coordinate.h" alt="" coords="148,453,241,480"/>
+<area shape="rect" id="node9" href="$piece_8h.html" title="piece.h" alt="" coords="195,155,259,181"/>
+<area shape="rect" id="node12" href="$piece__type_8h.html" title="piece_type.h" alt="" coords="391,229,487,256"/>
+<area shape="rect" id="node13" href="$imove_8h.html" title="imove.h" alt="" coords="95,229,163,256"/>
+</map>

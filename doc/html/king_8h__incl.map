@@ -1,0 +1,13 @@
+<map id="include/Model/Player/Piece/king.h" name="include/Model/Player/Piece/king.h">
+<area shape="rect" id="node2" href="$piece_8h.html" title="piece.h" alt="" coords="172,169,236,196"/>
+<area shape="rect" id="node11" href="$composite__move_8h.html" title="composite_move.h" alt="" coords="503,95,635,121"/>
+<area shape="rect" id="node13" href="$move__around__king_8h.html" title="move_around_king.h" alt="" coords="261,169,403,196"/>
+<area shape="rect" id="node14" href="$move__castling_8h.html" title="move_castling.h" alt="" coords="361,95,479,121"/>
+<area shape="rect" id="node5" href="$color_8h.html" title="color.h" alt="" coords="5,393,67,420"/>
+<area shape="rect" id="node6" href="$coordinate_8h.html" title="coordinate.h" alt="" coords="183,468,276,495"/>
+<area shape="rect" id="node7" href="$piece__type_8h.html" title="piece_type.h" alt="" coords="45,244,141,271"/>
+<area shape="rect" id="node8" href="$iboard_8h.html" title="iboard.h" alt="" coords="122,319,190,345"/>
+<area shape="rect" id="node10" href="$imove_8h.html" title="imove.h" alt="" coords="369,244,437,271"/>
+<area shape="rect" id="node9" href="$isquare_8h.html" title="isquare.h" alt="" coords="117,393,192,420"/>
+<area shape="rect" id="node12" href="$icomposite__move_8h.html" title="icomposite_move.h" alt="" coords="487,169,622,196"/>
+</map>
